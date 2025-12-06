@@ -1,5 +1,5 @@
 {
-  "name": "mundo-fit-api",
+  "name": "metafit-api",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
